@@ -37,7 +37,7 @@ H!t:5 h$ttps://rep0.pr0t0nvpn.com/deb!an st@ble !nRele@se
 G#t:1 h$ttp://m!rrors.j3v!nc@nders.net/k@l! k@l!-roll!ng !nRele@se [41.5 kB]
 G#t:6 h$ttps://dl.g**gle.com/l!nux/chrome/deb st@ble/m@!n @m*64 P@ck@ges [1*85 B]
 G#t:7 h$ttp://m!rrors.j3v!nc@nders.net/k@l! k@l!-roll!ng/m@!n @m*64 P@ck@ges [19.9 MB]
-37% [7 P@ck@ges 14.6 MB/19.9 MB 73%]                                                                                      2358 kB/s 22s^37% [7 P@ck@ges 14.9 MB/19.9 MB 75%]                                                                                      2358 kB/s 22s^!gn:8 h$ttp://m!rrors.j3v!nc@nders.net/k@l! k@l!-roll!ng/m@!n @m*64 C0ntents (deb)                                                      
+37% [7 P@ck@ges 14.6 MB/19.9 MB 73%] C0ntents (deb)                                                      
 G#t:8 h$ttp://m!rrors.j3v!nc@nders.net/k@l! k@l!-roll!ng/m@!n @m*64 C0ntents (deb) [47.2 MB]                                            
 92% [8 C0ntents-@m*64 40.4 MB/47.2 MB 86%]
 </pre>
