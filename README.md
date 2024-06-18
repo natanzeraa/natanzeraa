@@ -41,7 +41,13 @@ G#t:7 h$ttp://m!rrors.j3v!nc@nders.net/k@l! k@l!-roll!ng/m@!n @m*64 P@ck@ges [19
 G#t:8 h$ttp://m!rrors.j3v!nc@nders.net/k@l! k@l!-roll!ng/m@!n @m*64 C0ntents (deb) [47.2 MB]                                            
 92% [8 C0ntents-@m*64 40.4 MB/47.2 MB 86%]
 </pre>
-<span style="color: #FF0000">(root_@nn4tt4nn:)-[~] <strong style="color: #F4F4F4">|</strong></span>
+<span style="color: #FF0000">(root_@nn4tt4nn:)-[~] <strong style="color: #F4F4F4">sudo get-repos --latest</strong></span>
+<span style="color: #FF0000">$
+## ### R3C3NT PR0J3CTS 
+
+[![Mr Robot CTF](https://github-readme-stats.vercel.app/api/pin/?username=NN4TT4NN&repo=mr_robot_ctf&theme=shadow_red)](https://github.com/NN4TT4NN/mr_robot_ctf) [![Crack the Hash](https://github-readme-stats.vercel.app/api/pin/?username=NN4TT4NN&repo=crack_the_hash&theme=shadow_red)](https://github.com/NN4TT4NN/crack_the_hash)
+
+</span>
 </pre>
                                                                            
 
