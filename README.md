@@ -13,7 +13,7 @@
   ....                ,ONkc;,;cokOdc',.            Course: Defesa Cibernética (Cyber ​​Defense)
  .                   OMo           ':ddo.          Career: Started in I.T. in 2022 
                     dMc               :OO;         XP: 2 years in web development experience 
-                    0M.                 .:o.       Linkedin: <a href="https://www.linkedin.com/in/natan-oliveira-71023822b/" target="_blank">CL1CK H3R3</a> 😈
+                    0M.                 .:o.       Linkedin: <a href="https://www.linkedin.com/in/natan-oliveira-71023822b/" target="__blank">CL1CK H3R3</a> 😈
                     ;Wd                            Reading : Técnicas de Invasão (by: Bruno Fraga) 
                      ;XO,                          WM Theme: Kali-Dark 
                        ,d0Odlc;,..                 Theme: Kali-Dark [GTK2/3] 
