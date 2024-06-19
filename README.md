@@ -44,7 +44,9 @@ G#t:8 h$ttp://m!rrors.j3v!nc@nders.net/k@l! k@l!-roll!ng/m@!n @m*64 C0ntents (de
 <span style="color: #FF0000">(root_@nn4tt4nn:)-[~] <strong style="color: #F4F4F4">sudo get-repos --latest</strong></span>
 <span style="color: #FF0000">$ <strong style="color: #F4F4F4">loading ... </strong> 
 ### ☠️☠️☠️☠️☠️☠️☠️☠️☠️ R3C3NT PR0J3CTS ☠️☠️☠️☠️☠️☠️☠️☠️☠️
-[![Mr Robot CTF](https://github-readme-stats.vercel.app/api/pin/?username=NN4TT4NN&repo=mr_robot_ctf&theme=shadow_red)](https://github.com/NN4TT4NN/mr_robot_ctf) [![Crack the Hash](https://github-readme-stats.vercel.app/api/pin/?username=NN4TT4NN&repo=crack_the_hash&theme=shadow_red)](https://github.com/NN4TT4NN/crack_the_hash)
+[![Mr Robot CTF](https://github-readme-stats.vercel.app/api/pin/?username=NN4TT4NN&repo=mr_robot_ctf&theme=shadow_red)](https://github.com/NN4TT4NN/mr_robot_ctf) 
+[![Crack the Hash](https://github-readme-stats.vercel.app/api/pin/?username=NN4TT4NN&repo=crack_the_hash&theme=shadow_red)](https://github.com/NN4TT4NN/crack_the_hash) 
+[![Investigating Windows](https://github-readme-stats.vercel.app/api/pin/?username=NN4TT4NN&repo=investigating_windows&theme=shadow_red)](https://github.com/NN4TT4NN/investigating_windows)
 
 </span>
 </pre>
