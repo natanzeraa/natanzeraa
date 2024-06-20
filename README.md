@@ -26,27 +26,13 @@
                                             .'
                                              .                             
 </pre>
-<span style="color: #FF0000">(root_@nn4tt4nn:)-[~] <strong style="color: #F4F4F4" >sudo apt update && sudo apt upgrade</strong></span>
-<span style="color: #FF0000; margin:0 auto; padding:0"><strong style="color: #F4F4F4; margin:0 auto; padding:0" >
-<pre style="background-color:transparent; border: none; margin:0 auto; padding:0">
-[su#o] p@ssw&rd f@r root_@nn4tt4nn:
-H!t:2 h$ttp://rep0s!tory.sp0t!fy.com st@ble !nRele@se
-G#t:3 h$ttps://dl.g**gle.com/l!nux/chrome/deb st@ble !nRele@se [1*25 B]
-H!t:4 h$ttps://p@ck@ges.m!crosoft.com/repos/c0de st@ble !nRele@se
-H!t:5 h$ttps://rep0.pr0t0nvpn.com/deb!an st@ble !nRele@se
-G#t:1 h$ttp://m!rrors.j3v!nc@nders.net/k@l! k@l!-roll!ng !nRele@se [41.5 kB]
-G#t:6 h$ttps://dl.g**gle.com/l!nux/chrome/deb st@ble/m@!n @m*64 P@ck@ges [1*85 B]
-G#t:7 h$ttp://m!rrors.j3v!nc@nders.net/k@l! k@l!-roll!ng/m@!n @m*64 P@ck@ges [19.9 MB]
-37% [7 P@ck@ges 14.6 MB/19.9 MB 73%] C0ntents (deb)
-G#t:8 h$ttp://m!rrors.j3v!nc@nders.net/k@l! k@l!-roll!ng/m@!n @m*64 C0ntents (deb) [47.2 MB]
-92% [8 C0ntents-@m*64 40.4 MB/47.2 MB 86%]
-</pre>
-<span style="color: #FF0000">(root_@nn4tt4nn:)-[~] <strong style="color: #F4F4F4">sudo get-repos --latest</strong></span>
+
+<!-- <span style="color: #FF0000">(root_@nn4tt4nn:)-[~] <strong style="color: #F4F4F4">python3 show_repos.py</strong></span>
 <span style="color: #FF0000">$ <strong style="color: #F4F4F4">loading ... </strong> 
 ### ☠️☠️☠️☠️☠️☠️☠️☠️☠️ R3C3NT PR0J3CTS ☠️☠️☠️☠️☠️☠️☠️☠️☠️
-[![Mr Robot CTF](https://github-readme-stats.vercel.app/api/pin/?username=NN4TT4NN&repo=mr_robot_ctf&theme=shadow_red)](https://github.com/NN4TT4NN/mr_robot_ctf) 
+ [![Mr Robot CTF](https://github-readme-stats.vercel.app/api/pin/?username=NN4TT4NN&repo=mr_robot_ctf&theme=shadow_red)](https://github.com/NN4TT4NN/mr_robot_ctf) 
 [![Crack the Hash](https://github-readme-stats.vercel.app/api/pin/?username=NN4TT4NN&repo=crack_the_hash&theme=shadow_red)](https://github.com/NN4TT4NN/crack_the_hash) 
-[![Investigating Windows](https://github-readme-stats.vercel.app/api/pin/?username=NN4TT4NN&repo=investigating_windows&theme=shadow_red)](https://github.com/NN4TT4NN/investigating_windows)
+[![Investigating Windows](https://github-readme-stats.vercel.app/api/pin/?username=NN4TT4NN&repo=investigating_windows&theme=shadow_red)](https://github.com/NN4TT4NN/investigating_windows) -->
 
 </span>
 </pre>
