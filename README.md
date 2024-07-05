@@ -4,3 +4,4 @@
 </div>
 
 
+![tryhackme stats](https://raw.githubusercontent.com/NN4TT4NN/NN4TT4NN/master/assets/thm_propic.png)
