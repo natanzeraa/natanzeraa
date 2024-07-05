@@ -5,14 +5,14 @@
 <br/>
 <br/>
 
-<div style="display: block; align-items: start">
+<div style="align-items: start">
     <img src="https://tryhackme-badges.s3.amazonaws.com/NN4TT4NN.png" alt="TryHackMe">
     <br/>
     <br/>
     <div style="display: flex; align-items: start; width: 100%">
         <div style="display: flex; align-items: center;">
             <img src="https://tryhackme.com/img/badges/mrrobot.svg" height="70px"/> 
-            <div style="display: block; align-items: start; margin: 5px">
+            <div style="align-items: start; margin: 5px">
                 <span>Mr. Robot</span>
                 <br/>
                 <p>Completing the Mr. Robot room</p> 
@@ -20,7 +20,7 @@
         </div>
         <div style="display: flex; align-items: center;">
             <img src="https://tryhackme.com/img/badges/owasptop10.svg" height="70px"/>
-            <div style="display: block; align-items: start; margin: 5px">
+            <div style="align-items: start; margin: 5px">
                 <span>OWASP Top 10</span>
                 <br/>
                 <p>Understanding every OWASP vulnerability</p> 
