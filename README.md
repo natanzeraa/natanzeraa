@@ -14,8 +14,6 @@ I'm a self-taught backend developer from Brazil
 
 🕵️‍♀️ For me is fun to understand how attacks work under the hood and how to avoid them
 
-💬 Ask me about anything here
-
 <br/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="35px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="30px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="28px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="30px" />
