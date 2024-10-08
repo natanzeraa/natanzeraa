@@ -10,7 +10,9 @@ I'm a self-taught backend developer from Brazil
 
 🎓 Currently persuiting a degree in Cyber Defense
 
-❤️ I like writing Java code, and build secure api's
+❤️ I like writing Java code for building secure api's
+
+🕵️‍♀️ For me is fun to understand how attacks work under the hood and how to avoid them
 
 💬 Ask me about anything here
 
