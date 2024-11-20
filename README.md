@@ -6,17 +6,19 @@ I'm a self-taught backend developer from Brazil
 
 **About me**
 
-💼 Brackend developer
+💼 Backend developer
 
 🎓 Currently persuiting a degree in Cyber Defense
 
-❤️ I like writing Java code for building secure api's
+❤️ I like writing code for building util applications
 
 🕵️‍♀️ For me is fun to understand how attacks work under the hood and how to avoid them
 
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="35px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="30px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="28px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="30px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="28px" />  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="30px" /> 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/NN4TT4NN.png" height="40px" />  <img src="https://tryhackme.com/img/badges/mrrobot.svg" height="45px" />  <img src="https://tryhackme.com/img/badges/owasptop10.svg" height="40px" />  
 
