@@ -1,8 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/172435339?v=4" height="50px" />  
-
-<h3>Natan Oliveira 🇧🇷</h3>
-  
-<br/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Skills" />
 
 <p>💼 Web Developer since 2022</p>
 
