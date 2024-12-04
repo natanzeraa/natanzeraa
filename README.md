@@ -1,4 +1,6 @@
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Skills" />
+<a href="https://www.linkedin.com/in/natan-oliveira-71023822b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Skills" />
+</a>
 
 <p>💼 Web Developer since 2022</p>
 
