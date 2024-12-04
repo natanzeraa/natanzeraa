@@ -14,7 +14,7 @@
   <tr>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,cs,golang,javascript,python,dotnet,wasm,spring,nodejs,django,postgresql,mysql,sqlite,mongodb,dynamodb&perline=5" alt="My Skills" />
+        <img src="https://skillicons.dev/icons?i=java,cs,golang,javascript,python,dotnet,wasm,spring,nodejs,django,postgresql,mysql,sqlite,mongodb,dynamodb,docker,aws,linux,kali,ubuntu&perline=5" alt="My Skills" />
       </a>
       <br/>
       <img src="https://tryhackme-badges.s3.amazonaws.com/NN4TT4NN.png" height="42px" />  
