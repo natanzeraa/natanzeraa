@@ -1,29 +1,50 @@
 <a href="https://www.linkedin.com/in/natan-oliveira-71023822b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Skills" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<p>💼 Web Developer since 2022</p>
+<br/>
+<br/>
 
-<p>❤️ Programming languages are just tools, concepts are the most important thing </p>
+## 💼 Sobre Mim
 
-<hr/>
+Sou desenvolvedor web desde 2022. Para mim, linguagens de programação são apenas ferramentas; o mais importante são os conceitos por trás delas. Busco sempre evoluir e aprender novas tecnologias para resolver problemas de forma criativa e eficiente.
 
-<table>
-  <tr>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,cs,golang,javascript,python,dotnet,wasm,spring,nodejs,django,postgresql,mysql,sqlite,mongodb,dynamodb,docker,aws,linux,kali,ubuntu&perline=5" alt="My Skills" />
-      </a>
-      <br/>
-      <img src="https://tryhackme-badges.s3.amazonaws.com/NN4TT4NN.png" height="42px" />  
-      <img src="https://tryhackme.com/img/badges/mrrobot.svg" height="55px" />  
-      <img src="https://tryhackme.com/img/badges/owasptop10.svg" height="50px" />  
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanzeraa&layout=donut-vertical&theme=onedark&custom_title=Natan's%20Most%20Used%20Languages" width="250" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+---
 
+## 🛠️ Tecnologias
 
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=14&duration=5000&color=33FF33&center=false&vCenter=false&width=500&lines=Hello,+friend;Control+is+an+illusion;We+are+the+99%;Democracy+is+hacked;I'm+not+a+vigilante+hacker+I'm+a+soldier;The+world+is+a+dangerous+place+,+Elliot;Not+because+of+those+who+do+evil;But+because+of+those+who+look+on+and+do+nothing;Is+any+of+it+real+?+I+mean+,+look+at+this;+Look+at+it+!;A+world+built+on+fantasy;The+top+1%+of+the+top+1%;The+guys+who+play+God+without+permission;Nothing+is+coincidence+Everything+is+meant+to+be" alt="Typing SVG"/> -->
+### Linguagens de Programação
+
+<img src="https://skillicons.dev/icons?i=java,javascript,python&perline=15" alt="Linguagens de Programação" />
+
+### Frameworks & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,react,django&perline=5" alt="Frameworks e Ferramentas" />
+
+### Bancos de Dados
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,dynamodb&perline=5" alt="Bancos de Dados" />
+
+### Sistemas Operacionais
+
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu&perline=5" alt="Sistemas Operacionais" />
+
+---
+
+## 🔐 Segurança Cibernética
+
+Também gosto de me desafiar em testes de penetração com desafios de Red Team:
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/NN4TT4NN.png" height="42px" />  <img src="https://tryhackme.com/img/badges/mrrobot.svg" height="55px" />  <img src="https://tryhackme.com/img/badges/owasptop10.svg" height="50px" />
+
+---
+
+## 🌍 Linguagens Mais Utilizadas
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanzeraa&layout=donut-vertical&theme=onedark&custom_title=Línguas%20Mais%20Usadas%20por%20Natan" width="250" alt="Top Langs" />
+
+---
+
+## 📜 Contato
+
+Sinta-se à vontade para me enviar uma mensagem ou se conectar através do [LinkedIn](https://www.linkedin.com/in/natan-oliveira-71023822b/).
