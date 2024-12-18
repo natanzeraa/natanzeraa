@@ -15,7 +15,7 @@ Sou desenvolvedor web desde 2022. Para mim, linguagens de programação são ape
 
 ### Linguagens de Programação
 
-<img src="https://skillicons.dev/icons?i=java,javascript,python&perline=15" alt="Linguagens de Programação" />
+<img src="https://skillicons.dev/icons?i=javascript,java,python&perline=15" alt="Linguagens de Programação" />
 
 ### Frameworks & Ferramentas
 
