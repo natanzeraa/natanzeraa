@@ -41,6 +41,7 @@ Também gosto de me desafiar em testes de penetração com desafios de Red Team:
 
 ## 🌍 Linguagens Mais Utilizadas
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanzeraa&hide=java,html&size_weight=0.5&count_weight=0.5&theme=dracula&custom_title=Línguas%20Mais%20Usadas%20por%20Natan)
 
 ---
 
