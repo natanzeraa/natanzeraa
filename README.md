@@ -7,10 +7,13 @@
 
 ## 💼 Sobre Mim
 
-Sou desenvolvedor web desde 2022. Para mim, linguagens de programação são apenas ferramentas; o mais importante são os conceitos por trás delas. Busco sempre evoluir e aprender novas tecnologias para resolver problemas de forma criativa e eficiente.
+> Trabalho na área de tecnologia desde 2022. Iniciei como desenvolvedor web e logo descobri a área de segurança da informação.
+> Então decidi cursar defesa cibernética pela Faculdade Estácio de Sá
+> Hoje atuo como SysAdmin e Suporte Técnico
 
 ---
 
+<!--
 ## 🛠️ Tecnologias
 
 ### Linguagens de Programação
@@ -25,25 +28,19 @@ Sou desenvolvedor web desde 2022. Para mim, linguagens de programação são ape
 
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,dynamodb&perline=5" alt="Bancos de Dados" />
 
-### Sistemas Operacionais
-
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu&perline=5" alt="Sistemas Operacionais" />
-
----
-
 ## 🔐 Segurança Cibernética
 
-Também gosto de me desafiar em testes de penetração com desafios de Red Team:
+Gosto de me desafiar em testes de penetração com desafios de Red Team:
+### Sistemas Operacionais
+## 🌍 Linguagens Mais Utilizadas
+-->
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/NN4TT4NN.png" height="42px" />  <img src="https://tryhackme.com/img/badges/mrrobot.svg" height="55px" />  <img src="https://tryhackme.com/img/badges/owasptop10.svg" height="50px" />
 
----
-
-## 🌍 Linguagens Mais Utilizadas
+<img src="https://skillicons.dev/icons?i=linux,debian,windows,kali,ubuntu&perline=5" alt="Sistemas Operacionais" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanzeraa&hide=java,html&size_weight=0.5&count_weight=0.5&theme=dracula&custom_title=Línguas%20Mais%20Usadas%20por%20Natan)
 
----
 
 ## 📜 Contato
 
