@@ -37,7 +37,7 @@ Gosto de me desafiar em testes de penetração com desafios de Red Team:
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/NN4TT4NN.png" height="42px" />  <img src="https://tryhackme.com/img/badges/mrrobot.svg" height="55px" />  <img src="https://tryhackme.com/img/badges/owasptop10.svg" height="50px" />
 
-<img src="https://skillicons.dev/icons?i=linux,debian,windows,kali,ubuntu&perline=5" alt="Sistemas Operacionais" />
+<img src="https://skillicons.dev/icons?i=windows,linux,debian,kali,ubuntu&perline=5" alt="Sistemas Operacionais" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanzeraa&hide=java,html&size_weight=0.5&count_weight=0.5&theme=dracula&custom_title=Línguas%20Mais%20Usadas%20por%20Natan)
 
