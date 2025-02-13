@@ -7,9 +7,10 @@
 
 ## 💼 Sobre Mim
 
-> Trabalho na área de tecnologia desde 2022. Iniciei como desenvolvedor web e logo descobri a área de segurança da informação.
-> Então decidi cursar defesa cibernética pela Faculdade Estácio de Sá
-> Hoje atuo como SysAdmin e Suporte Técnico
+> Trabalho na área de tecnologia desde 2022.
+> Iniciei como desenvolvedor web e logo descobri a área de segurança da informação.
+> Então decidi cursar defesa cibernética
+> Hoje atuo como SysAdmin e Analista de Segurança da Informação
 
 ---
 
