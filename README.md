@@ -1,48 +1,27 @@
+#### _Olá, me chamo Natan Felipe, sou analista de segurança da informação com foco na defesa de sistemas corporativos_.
+
+🧑‍💼 Profissional de tecnologia _**desde 2022**_.
+ 
+👨‍💻 Iniciei como desenvolvedor web e logo descobri a área de segurança da informação.
+ 
+🧑‍🎓 Estou cursando ensino superior em _**Defesa Cibernética**_ pela Estácio de Sá.
+ 
+🛡️ Possuo certificação de _**Segurança em Linux** pela **IBSEC**_.
+ 
+🕵️‍♂️ Atualmente trabalho como _**SysAdmin/Analista de Segurança da Informação**_.
+
+<br/>
+
 <a href="https://www.linkedin.com/in/natan-oliveira-71023822b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Você também pode se conectar comigo no-LinkedIn-blue?style=for-the-badge" alt="LinkedIn" />
 </a>
 
 <br/>
 <br/>
 
-## 💼 Sobre Mim
+<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/NN4TT4NN.png" height="42px" /> --> 
+<img src="https://skillicons.dev/icons?i=windows,debian,kali,ubuntu,redhat&perline=10" alt="Sistemas Operacionais" /> <img src="https://tryhackme.com/img/badges/owasptop10.svg" height="50px" /> <img src="https://tryhackme.com/img/badges/mrrobot.svg" height="55px" />
 
-> Trabalho na área de tecnologia desde 2022.
-> Iniciei como desenvolvedor web e logo descobri a área de segurança da informação.
-> Então decidi cursar defesa cibernética
-> Hoje atuo como SysAdmin e Analista de Segurança da Informação
-
----
-
-<!--
-## 🛠️ Tecnologias
-
-### Linguagens de Programação
-
-<img src="https://skillicons.dev/icons?i=javascript,java,python&perline=15" alt="Linguagens de Programação" />
-
-### Frameworks & Ferramentas
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,react,django&perline=5" alt="Frameworks e Ferramentas" />
-
-### Bancos de Dados
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,dynamodb&perline=5" alt="Bancos de Dados" />
-
-## 🔐 Segurança Cibernética
-
-Gosto de me desafiar em testes de penetração com desafios de Red Team:
-### Sistemas Operacionais
-## 🌍 Linguagens Mais Utilizadas
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanzeraa&java,html&size_weight=0.5&count_weight=0.5&theme=dracula&custom_title=Línguas%20Mais%20Usadas%20por%20Natan) 
 -->
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/NN4TT4NN.png" height="42px" />  <img src="https://tryhackme.com/img/badges/mrrobot.svg" height="55px" />  <img src="https://tryhackme.com/img/badges/owasptop10.svg" height="50px" />
-
-<img src="https://skillicons.dev/icons?i=windows,linux,debian,kali,ubuntu&perline=5" alt="Sistemas Operacionais" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanzeraa&hide=java,html&size_weight=0.5&count_weight=0.5&theme=dracula&custom_title=Línguas%20Mais%20Usadas%20por%20Natan)
-
-
-## 📜 Contato
-
-Sinta-se à vontade para me enviar uma mensagem ou se conectar através do [LinkedIn](https://www.linkedin.com/in/natan-oliveira-71023822b/).
