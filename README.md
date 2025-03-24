@@ -1,4 +1,4 @@
-#### _Olá, me chamo Natan Felipe, sou analista de segurança da informação com foco na defesa de sistemas corporativos_.
+#### _Olá, me chamo Natan Felipe, sou analista de Segurança da Informação com foco em defesa cibernética de sistemas e corporações_.
 
 🧑‍💼 Profissional de tecnologia _**desde 2022**_.
  
