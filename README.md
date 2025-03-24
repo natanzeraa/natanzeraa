@@ -8,7 +8,7 @@
  
 🛡️ Possuo certificação de _**Segurança em Linux** pela **IBSEC**_.
  
-🕵️‍♂️ Atualmente trabalho como _**SysAdmin/Analista de Segurança da Informação**_.
+🕵️‍♂️ Atualmente trabalho como _**Analista de Segurança da Informação**_.
 
 <br/>
 
