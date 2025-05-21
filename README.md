@@ -8,7 +8,7 @@
  
 🛡️ Possuo certificação de _**Segurança em Linux** pela **IBSEC**_.
  
-🕵️‍♂️ Criar ferramentas através de código para facilitar o dia a dia é o que mais gosto de fazer .
+🕵️‍♂️ Criar ferramentas através de código que facilitam o dia a dia é o que mais gosto de fazer .
 
 <br/>
 
