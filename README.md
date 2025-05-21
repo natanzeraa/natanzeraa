@@ -1,14 +1,14 @@
-#### _Olá, me chamo Natan Felipe, sou analista de Segurança da Informação com foco em defesa cibernética de sistemas e corporações_.
+#### _Olá, me chamo Natan Felipe, sou desenvolvedor e hoje atuo como analista de Segurança da Informação com foco em construir ferramentas de gerenciamento e defesa de sistemas e corporações_.
 
 🧑‍💼 Profissional de tecnologia _**desde 2022**_.
  
-👨‍💻 Iniciei como desenvolvedor web e logo descobri a área de segurança da informação.
+👨‍💻 Iniciei minha carreira como desenvolvedor web.
  
-🧑‍🎓 Estou cursando ensino superior em _**Defesa Cibernética**_ pela Estácio de Sá.
+🧑‍🎓 Atualmente estou cursando ensino superior em _**Defesa Cibernética**_ pela Estácio de Sá.
  
 🛡️ Possuo certificação de _**Segurança em Linux** pela **IBSEC**_.
  
-🕵️‍♂️ Atualmente trabalho como _**Analista de Segurança da Informação**_.
+🕵️‍♂️ Criar ferramentas através de código para facilitar o dia a dia é o que mais gosto de fazer .
 
 <br/>
 
