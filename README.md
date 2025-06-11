@@ -24,6 +24,12 @@ My mission is to build tools that **simplify, protect, and optimize** systems in
   <img src="https://skillicons.dev/icons?i=javascript,java,php,python,c,cpp,powershell,bash&perline=10" />
 </div>
 
+#### 🚀 Frameworks
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=express,nest,laravel,spring,django,react&perline=10" />
+</div>
+
 #### 🖥️ Operating Systems
 
 <div align="left">
