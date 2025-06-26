@@ -52,6 +52,10 @@ My mission is to build tools that **simplify, protect, and optimize** systems in
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/natan-oliveira-71023822b/)
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/natanzeraa/natanzeraa/output/snake.svg" alt="Snake animation" />
+
 ---
 
 ### 🧩 About Me
