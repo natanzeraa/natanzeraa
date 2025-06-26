@@ -55,13 +55,3 @@ My mission is to build tools that **simplify, protect, and optimize** systems in
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/natanzeraa/natanzeraa/output/snake.svg" alt="Snake animation" />
-
----
-
-### 🧩 About Me
-
-I believe that **code is a powerful weapon for defense**.  
-My favorite challenges are the ones where I can combine **development skills** with **cybersecurity principles** to build something useful — whether it’s a monitoring script, an automation pipeline, or a custom CLI tool for sysadmins.
-
-> _Security without automation is chaos. Programming without purpose is noise._  
-> That's why I write code with intention and precision.
