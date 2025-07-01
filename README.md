@@ -33,7 +33,7 @@ My mission is to build tools that **simplify, protect, and optimize** systems in
 #### 🗄️ Databases
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,redis&perline=10" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite&perline=10" />
 </div>
 
 #### 🖥️ Operating Systems
