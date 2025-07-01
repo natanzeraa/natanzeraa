@@ -1,18 +1,18 @@
 ## 👋 Hello, I'm Natan Felipe
 
-I'm a **software developer** with a strong focus on **information security**.  
-My mission is to build tools that **simplify, protect, and optimize** systems in corporate environments.
+I'm a **backend developer** with experience in **Java, Node.js** and **TypeScript**.
+
+Focused on building **scalable APIs**, **automated solutions**, and **secure systems**.
 
 ---
 
-### 💼 Professional Summary
+### 💼 Summary
 
-- 👨‍💻 Software developer since **2022**, passionate about building impactful tools.
-- 🚀 Strong foundation in **web development** and systems programming.
-- 🔐 Currently working as an **Information Security Analyst**, focused on developing defensive and monitoring tools.
-- 🎓 Undergraduate in **Cybersecurity (Defesa Cibernética)** at *Estácio de Sá University*.
-- 🛡️ Certified in **Linux Security** by **IBSEC**.
-- 🧠 Enthusiastic about **automation**, **cyber defense**, and **custom internal tools**.
+* 👨‍💻 Active as a developer since **2020**, with experience in backend and fullstack roles.
+* 🧩 Skilled in **RESTful APIs**, **microservices**, and **cloud infrastructure**.
+* 🔐 Background in **information security**, currently working on **automation and monitoring tools**.
+* 🎓 Studying **Cybersecurity** at *Estácio de Sá University*.
+* ⚙️ Comfortable with **Docker**, **CI/CD**, and DevOps workflows.
 
 ---
 
