@@ -43,7 +43,7 @@ My mission is to build tools that **simplify, protect, and optimize** systems in
 ### 📈 GitHub Stats
 
 <div align="left">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanzeraa&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanzeraa&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&hide=c,C%2B%2B,python,php" />
 </div>
 
 ---
