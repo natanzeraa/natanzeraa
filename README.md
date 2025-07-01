@@ -30,6 +30,12 @@ My mission is to build tools that **simplify, protect, and optimize** systems in
   <img src="https://skillicons.dev/icons?i=spring,nest,express,angular,react&perline=10" />
 </div>
 
+#### 🗄️ Databases
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,redis&perline=10" />
+</div>
+
 #### 🖥️ Operating Systems
 
 <div align="left">
