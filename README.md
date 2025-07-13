@@ -21,7 +21,7 @@ Focused on building **scalable APIs**, **automated solutions**, and **secure sys
 #### 🚀 Programming Languages
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,java,python,c,powershell,bash&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,typescript,swift,python,c,powershell,bash&perline=10" />
 </div>
 
 #### 🚀 Frameworks
