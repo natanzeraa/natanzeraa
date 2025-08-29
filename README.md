@@ -1,18 +1,18 @@
 ## 👋 Hello, I'm Natan Felipe
 
-I'm a **backend developer** with experience in **Java, Node.js** and **TypeScript**.
+I'm a **Full Stack developer** experienced in **Javascript, Typescript, Node.js, React, React Native, Flutter and Swift**.
 
-Focused on building **scalable APIs**, **automated solutions**, and **secure systems**.
+Focused on building **scalable APIs and Mobile APPs**, **automated solutions**, and **secure systems**.
 
 ---
 
 ### 💼 Summary
 
-* 👨‍💻 Active as a developer since **2020**, with experience in backend and fullstack roles.
-* 🧩 Skilled in **RESTful APIs**, **microservices**, and **cloud infrastructure**.
-* 🔐 Background in **information security**, currently working on **automation and monitoring tools**.
+* 👨‍💻 Active as a developer since **2020**, with experience in fullstack roles.
+* 🧩 Skilled in **RESTful APIs**, **mobile**, and **cloud infrastructure**.
+* 🔐 Background in **information security**.
 * 🎓 Studying **Cybersecurity** at *Estácio de Sá University*.
-* ⚙️ Comfortable with **Docker**, **CI/CD**, and DevOps workflows.
+* ⚙️ Comfortable with **Docker** and **AWS, Azure** and **Digital Ocean**.
 
 ---
 
@@ -21,27 +21,19 @@ Focused on building **scalable APIs**, **automated solutions**, and **secure sys
 #### 🚀 Programming Languages
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,typescript,swift,python,c,powershell,bash&perline=10" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,swift,powershell,dart&perline=10" />
 </div>
 
 #### 🚀 Frameworks
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nest,express,angular,react&perline=10" />
+  <img src="https://skillicons.dev/icons?i=express,react,flutter&perline=10" />
 </div>
 
 #### 🗄️ Databases
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite&perline=10" />
-</div>
-
-#### 🖥️ Operating Systems
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=debian,kali,ubuntu,redhat,windows&perline=10" />
-  <img src="https://tryhackme.com/img/badges/owasptop10.svg" height="50px" />
-  <img src="https://tryhackme.com/img/badges/mrrobot.svg" height="55px" />
 </div>
 
 ---
