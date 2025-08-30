@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Natan Felipe
+## 👋 Hello, I'm Natan Felipe de Oliveira
 
 I'm a **Full Stack developer** experienced in **Javascript, Typescript, Node.js, React, React Native, Flutter and Swift**.
 
