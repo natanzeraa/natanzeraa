@@ -80,6 +80,6 @@ Bridging the gap between **software engineering** and **data science**, I specia
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/natan-oliveira-71023822b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8f00ff?style=for-the-badge\&logo=vercel)](https://github.com/natanzeraa)
 
-<br clear="both">
+<br clear="both"> 
 
 <img src="https://raw.githubusercontent.com/natanzeraa/natanzeraa/output/snake.svg" alt="Snake animation" />
