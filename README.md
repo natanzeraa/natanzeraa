@@ -70,7 +70,7 @@ Bridging the gap between **software engineering** and **data science**, I specia
 
 <div align="left">
 <img width="41%" height="195px" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanzeraa&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&hide=c,C%2B%2B,php,powershell,dart,swift,cmake,ruby,html,kotlin,objective-c" />
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanzeraa&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&hide=java,c,C%2B%2B,php,powershell,dart,swift,cmake,ruby,html,kotlin,objective-c" />
 </div>
 
 ---
