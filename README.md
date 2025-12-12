@@ -1,49 +1,57 @@
 ## 👋 Hello, I'm Natan Felipe de Oliveira
 
-I'm a **Data Science and Software Development professional** passionate about transforming data into strategic insights and scalable systems.
-With a solid background as a **Full Stack Developer** and **Information Security Analyst**, I bring a **strong engineering mindset** to data-driven problem solving.
+I'm a **Backend Engineer specialized in JavaScript and TypeScript**, focused on building **robust APIs, data-centric backend systems, and scalable services**.
+I work end-to-end on backend architecture — from **data modeling and business rules** to **infrastructure and deployment**.
 
 ---
 
-### 💼 Summary
+### 💼 Professional Summary
 
-* 💻 **Developer since 2020**, experienced in **software engineering, automation, and data processing**.
-* 🧠 Transitioning into **Data Science**, focused on **data cleaning, machine learning, and intelligent systems**.
-* 🧩 Strong foundation in **Python, SQL, and API development** for data collection and analysis.
-* 🔐 Background in **Information Security**, ensuring **data governance, privacy, and reliability**.
-* ☁️ Experienced with **Docker**, **cloud platforms (AWS, Azure, Digital Ocean)**, and **data pipelines**.
-* 🎓 Studying **Cybersecurity** at *Estácio de Sá University* — complementing my technical skill set with a focus on secure data infrastructure.
+* 💻 **Backend Developer since 2020**, working exclusively with **JavaScript/TypeScript on the server side**.
+* 🔗 Strong experience designing and maintaining **RESTful APIs** and backend services.
+* 🗄️ Solid background in **SQL and data modeling**, with a focus on **data consistency and performance**.
+* 🔄 Experience building **ETL-like backend pipelines** for data ingestion, normalization, and integration.
+* 🔐 Former **Information Security Analyst**, applying **secure coding practices, access control, and auditing** in backend systems.
+* ☁️ Hands-on with **Docker and cloud environments**, delivering production-ready backend services.
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Backend Tech Stack (JavaScript / TypeScript)
 
-#### 🧠 Data Science & Analytics
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,r&perline=10" />
-</div>
-
-* **Core Tools:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn
-* **Data Engineering:** SQL, Airflow, Apache Spark, ETL, API integrations
-* **Machine Learning:** Model training, NLP (spaCy, Hugging Face), data normalization, feature engineering
-* **Visualization:** Power BI, Tableau, Streamlit, Plotly
-
-#### 💻 Programming & Backend
+#### 💻 Core Backend
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,express,java&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,express&perline=10" />
 </div>
 
-* RESTful API design, data ingestion pipelines, task automation, microservices
+* **Node.js** (ESM, async/await, streams, workers)
+* **TypeScript** (clean architecture, strict typing, domain modeling)
+* **Express / Fastify** for high-performance APIs
+* Layered architecture (controllers, services, repositories)
 
-#### 🗄️ Databases & Storage
+---
+
+#### 🗄️ Databases & Data Access
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite&perline=10" />
 </div>
 
-* Experience designing **normalized schemas**, optimizing **SQL queries**, and integrating **NoSQL systems** for analytics
+* **PostgreSQL & MySQL** — relational modeling, joins, indexes, performance tuning
+* **MongoDB** — document modeling for flexible data structures
+* ORMs & Query Builders: **Prisma, Sequelize, Knex**
+* Transactions, migrations, and data integrity
+
+---
+
+#### 🔐 Backend Security
+
+* Authentication & Authorization (JWT, RBAC)
+* Secure API design
+* Input validation and data sanitization
+* Audit logs and traceability
+
+---
 
 #### ⚙️ Infrastructure & DevOps
 
@@ -51,18 +59,22 @@ With a solid background as a **Full Stack Developer** and **Information Security
   <img src="https://skillicons.dev/icons?i=docker,aws,azure,git,linux&perline=10" />
 </div>
 
-* Containerized deployments, CI/CD pipelines, cloud orchestration for model and API hosting
+* **Dockerized backend services**
+* CI/CD pipelines for Node.js APIs
+* Cloud deployment (AWS, Azure, DigitalOcean)
+* Environment-based configuration and secrets management
 
 ---
 
-### 📊 Featured Focus: From Code to Insight
+### 🧠 Backend Expertise
 
-Bridging the gap between **software engineering** and **data science**, I specialize in:
+I build **backend systems that handle real business complexity**, including:
 
-* Automating **data ingestion, cleaning, and enrichment pipelines**
-* Building **ML-ready datasets** for predictive analytics
-* Applying **secure development principles** to AI systems
-* Translating **business needs into analytical models and dashboards**
+* APIs that **centralize business rules**
+* Backend services focused on **data integrity and performance**
+* Scalable architectures for **multi-tenant systems**
+* Data-heavy backends (ERP integrations, financial systems, reporting APIs)
+* Clean, testable, and maintainable Node.js codebases
 
 ---
 
