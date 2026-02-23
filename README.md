@@ -34,9 +34,12 @@ I work end-to-end on backend architecture — from **data modeling and business 
 #### 🗄️ Databases & Data Access
 
 <div align="left">
+  
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" width=50/>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite&perline=10" />
 </div>
 
+* **Oracle PL/SQL** — Oracle Cloud Fusion customizations
 * **PostgreSQL & MySQL** — relational modeling, joins, indexes, performance tuning
 * **MongoDB** — document modeling for flexible data structures
 * ORMs & Query Builders: **Prisma, Sequelize, Knex**
