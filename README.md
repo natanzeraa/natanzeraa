@@ -1,58 +1,68 @@
 ## 👋 Hello, I'm Natan Felipe de Oliveira
 
-I'm a **Backend Engineer specialized in JavaScript and TypeScript**, focused on building **robust APIs, data-centric backend systems, and scalable services**.
-I work end-to-end on backend architecture — from **data modeling and business rules** to **infrastructure and deployment**.
+I'm a **Backend Engineer specialized in Java and Node.js**, focused on building **robust APIs, data-centric backend systems, and scalable enterprise services**.
+
+I work end-to-end on backend architecture — from **data modeling and business rules** to **integrations, cloud infrastructure, and deployment**.
 
 ---
 
 ### 💼 Professional Summary
 
-* 💻 **Backend Developer since 2020**, working exclusively with **JavaScript/TypeScript on the server side**.
-* 🔗 Strong experience designing and maintaining **RESTful APIs** and backend services.
-* 🗄️ Solid background in **SQL and data modeling**, with a focus on **data consistency and performance**.
-* 🔄 Experience building **ETL-like backend pipelines** for data ingestion, normalization, and integration.
-* 🔐 Former **Information Security Analyst**, applying **secure coding practices, access control, and auditing** in backend systems.
-* ☁️ Hands-on with **Docker and cloud environments**, delivering production-ready backend services.
+* 💻 **Backend Developer since 2020**, working with **Java (Spring Boot), Node.js, and Oracle PL/SQL** in production environments.
+* 🔗 Strong experience designing and maintaining **REST and SOAP integrations**, especially in **enterprise ecosystems (Oracle Fusion ERP)**.
+* 🗄️ Solid background in **SQL, PL/SQL, and data modeling**, focused on **data consistency, performance, and large-scale processing**.
+* 🔄 Experience building **data pipelines and system integrations**, including **ERP, financial systems, and external APIs**.
+* ☁️ Hands-on with **cloud environments (OCI & AWS)** and **Dockerized applications**.
+* 🔐 Background in **secure backend development**, applying best practices in **authentication, data validation, and auditing**.
 
 ---
 
-### 🧰 Backend Tech Stack (JavaScript / TypeScript)
+### 🧰 Backend Tech Stack
 
 #### 💻 Core Backend
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,express&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,typescript,javascript&perline=10" />
 </div>
 
-* **Node.js** (ESM, async/await, streams, workers)
-* **TypeScript** (clean architecture, strict typing, domain modeling)
-* **Express / Fastify** for high-performance APIs
-* Layered architecture (controllers, services, repositories)
+* **Java + Spring Boot** — REST/SOAP integrations, enterprise systems, layered architecture  
+* **Node.js (TypeScript/JavaScript)** — APIs, services, async processing  
+* **Clean Architecture & SOLID principles**  
+* Controllers, Services, Repositories, DTOs  
 
 ---
 
-#### 🗄️ Databases & Data Access
+#### 🗄️ Databases & Data
 
 <div align="left">
-  
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" width=50/>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite&perline=10" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&perline=10" />
 </div>
 
-* **Oracle PL/SQL** — Oracle Cloud Fusion customizations
-* **PostgreSQL & MySQL** — relational modeling, joins, indexes, performance tuning
-* **MongoDB** — document modeling for flexible data structures
-* ORMs & Query Builders: **Prisma, Sequelize, Knex**
-* Transactions, migrations, and data integrity
+* **Oracle PL/SQL** — procedures, packages, performance tuning, Oracle Fusion customizations  
+* **PostgreSQL / MySQL** — relational modeling, indexing, query optimization  
+* **MongoDB** — flexible document-based modeling  
+* ORMs: **Prisma, Sequelize, JPA/Hibernate**  
+* Transactions, migrations, and data integrity  
+
+---
+
+#### 🔗 Integrations & Enterprise
+
+* REST & SOAP integrations  
+* Oracle Integration Cloud (OIC)  
+* ERP integrations (Oracle Fusion: HCM, Financials, SCM)  
+* Payment APIs (PIX, boletos, banking integrations)  
+* ETL and data normalization pipelines  
 
 ---
 
 #### 🔐 Backend Security
 
-* Authentication & Authorization (JWT, RBAC)
-* Secure API design
-* Input validation and data sanitization
-* Audit logs and traceability
+* Authentication & Authorization (JWT, RBAC)  
+* Secure API design  
+* Input validation and sanitization  
+* Audit logs and traceability  
 
 ---
 
@@ -62,31 +72,22 @@ I work end-to-end on backend architecture — from **data modeling and business 
   <img src="https://skillicons.dev/icons?i=docker,aws,azure,git,linux&perline=10" />
 </div>
 
-* **Dockerized backend services**
-* CI/CD pipelines for Node.js APIs
-* Cloud deployment (AWS, Azure, DigitalOcean)
-* Environment-based configuration and secrets management
+* Dockerized applications  
+* CI/CD pipelines  
+* Cloud: **OCI & AWS (EC2, S3)**  
+* Environment configuration & secrets management  
 
 ---
 
 ### 🧠 Backend Expertise
 
-I build **backend systems that handle real business complexity**, including:
+I build backend systems that handle **real business complexity**, including:
 
-* APIs that **centralize business rules**
-* Backend services focused on **data integrity and performance**
-* Scalable architectures for **multi-tenant systems**
-* Data-heavy backends (ERP integrations, financial systems, reporting APIs)
-* Clean, testable, and maintainable Node.js codebases
-
----
-
-### 📈 GitHub Stats
-
-<div align="left">
-<img width="41%" height="195px" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanzeraa&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&hide=c,C%2B%2B,php,powershell,dart,swift,cmake,ruby,html,kotlin,objective-c,shell" />
-</div>
+* Enterprise integrations (ERP, financial systems)
+* High-volume data processing (batch, ETL, staging)
+* APIs focused on **data consistency and business rules**
+* Multi-tenant and scalable architectures
+* Systems with **strong audit and traceability requirements**
 
 ---
 
@@ -94,7 +95,3 @@ I build **backend systems that handle real business complexity**, including:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/natan-oliveira-71023822b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8f00ff?style=for-the-badge\&logo=vercel)](https://github.com/natanzeraa)
-
-<br clear="both"> 
-
-<img src="https://raw.githubusercontent.com/natanzeraa/natanzeraa/output/snake.svg" alt="Snake animation" />
