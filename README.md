@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Natan Felipe de Oliveira
 
-I'm a **Full Stack Engineer specialized in Java and Node.js**, focused on building **robust APIs, data-centric backend systems, and scalable enterprise services**.
+I'm a **Full Stack Engineer specialized in Java, Node.js and React.js**, focused on building **robust APIs, data-centric backend systems, and scalable enterprise services**.
 
 I work end-to-end on backend architecture — from **data modeling and business rules** to **integrations, cloud infrastructure, and deployment**.
 
